@@ -22,9 +22,15 @@ Saliency map can be downloaded on 链接: https://pan.baidu.com/s/1kGbfkDY6Juf1R
 3. TSPORTNet: An extended version has been published in T-PAMI:
 
 @article{liu2021part,
+
   title={Part-Object Relational Visual Saliency},
+  
   author={Liu, Yi and Zhang, Dingwen and Zhang, Qiang and Han, Jungong},
+  
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  
   year={2021},
+  
   publisher={IEEE}
+  
 }
